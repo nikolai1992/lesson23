@@ -1,0 +1,22 @@
+.navigation-menu-div
+{
+    height: 100vh;
+    background-color: white;
+}
+.navigation-menu-div ul li
+{
+    list-style-type: none;
+}
+.navigation-menu-div ul li a
+{
+    text-decoration: none;
+}
+table tr
+{
+    border: 1px solid black;
+}
+table tr td
+{
+    min-width: 100px;
+    border: 1px solid black;
+}
